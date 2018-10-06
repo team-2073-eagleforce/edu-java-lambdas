@@ -124,7 +124,7 @@ public class Main {
     // ============================================================ Style 3
     /**
      * Style 3: Lambda
-     * Implement the Comparable interface by creating two lamdas to override the compare(...) method
+     * Implement the Comparable interface by creating two lambdas to override the compare(...) method
      */
     private static void style3(List<MyRobot> robotList) {
 
@@ -142,7 +142,7 @@ public class Main {
 
     // ============================================================ Style 4
     /**
-     * Same as style 3 but creating the lamda inline in the method call.
+     * Same as style 3 but creating the lambda inline in the method call.
      */
     private static void style4(List<MyRobot> robotList) {
 
